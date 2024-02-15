@@ -4,7 +4,7 @@ background: # 既是博客的背景，又是文章默认头图
   width: 1280
   height: 726
 favicon:
-  href: images/favicon.ico # 网站图标
+  href: /images/favicon.ico # 网站图标
   type: image/x-icon # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
 
 function: # 功能开关，可选值（true,false）
@@ -109,7 +109,7 @@ widgets:
     options:
       widgetAchive: #文章归档组件
         archive_type: "year" #按月展示还是按年展示
-        show_count: true #是否展示数量
+        show_count: false #是否展示数量
   - name: recent_posts
     enable: true
   - name: link #settings: widgetLink

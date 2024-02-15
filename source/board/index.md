@@ -7,6 +7,7 @@ layout: false
 <html lang="zh">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
     </head>
     <body>
         <div class="back-home">

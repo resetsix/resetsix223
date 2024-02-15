@@ -1,8 +1,13 @@
 ---
 title: 2024龙年春节
+cover: https://cdnjson.com/images/2024/02/15/157147474030faf12b0266987f.md.jpg
 date: 2024-02-10 21:45:01
-tags: 生活
+tags: 春节
+coverWidth: 1500
+coverHeight: 780
 ---
+
+[![15707897037a1189714987e2fa.md.jpg](https://cdnjson.com/images/2024/02/15/15707897037a1189714987e2fa.md.jpg)](https://cdnjson.com/image/2Bc2F)
 
 ## 碎语
 

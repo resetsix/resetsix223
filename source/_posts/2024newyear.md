@@ -1,6 +1,7 @@
 ---
 title: 2024龙年春节
-cover: https://cdnjson.com/images/2024/02/15/157147474030faf12b0266987f.md.jpg
+# cover: https://cdnjson.com/images/2024/02/15/157147474030faf12b0266987f.md.jpg
+cover: https://img.paulzzh.com/touhou/random?1
 date: 2024-02-10 21:45:01
 tags: 春节
 coverWidth: 1500

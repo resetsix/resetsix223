@@ -8,7 +8,7 @@ coverWidth: 1500
 coverHeight: 780
 ---
 
-[![15707897037a1189714987e2fa.md.jpg](https://cdnjson.com/images/2024/02/15/15707897037a1189714987e2fa.md.jpg)](https://cdnjson.com/image/2Bc2F)
+![新年壁纸](https://resetsix.github.io/picx-images-hosting/cherry/新年壁纸.5tqr7qtowq.webp)
 
 ## 碎语
 

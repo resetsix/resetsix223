@@ -1,5 +1,5 @@
 ---
-title: 创意白板
+title: 留言白板
 date: 2023-06-23 12:02:47
 layout: false
 ---
@@ -11,7 +11,7 @@ layout: false
     </head>
     <body>
         <div class="back-home">
-            <a href="/"> <button>←返回主页</button> </a>
+            <a href="/"> <button>←返回博客</button> </a>
         </div>
         <div class = "board-container">
             <iframe id="board"
